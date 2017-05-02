@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_insertar">insertar</string>
+    <string name="title_activity_register">Registro</string>
+
+    <string name="desProducto">nombre de producto:</string>
+    <string name="cantidad">cantidad:</string>
+    <string name="precio">precio:</string>
+    <string name="total">total:</string>
+    <string name="btnSave">Guardar</string>
+
+</resources>
